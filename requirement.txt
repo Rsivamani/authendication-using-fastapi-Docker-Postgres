@@ -1,1 +1,7 @@
 passlib
+fastapi
+uvicorn 
+asyncpg 
+psycopg2-binary
+python-dotenv 
+pyjwt passlib[bcrypt]
